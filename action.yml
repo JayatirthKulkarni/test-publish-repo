@@ -11,3 +11,5 @@ runs:
       shell: bash
       run: |
         echo Heyyyyy
+    - uses: .github\workflows\actions.yml
+    - uses: .github\workflows\simple.yml
