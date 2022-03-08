@@ -5,10 +5,4 @@ branding:
   icon: 'thumbs-up'
   color: 'white'
 runs:
-  using: "composite"
-  steps:
-    steps:
-      - name: 
-          Echoshell:
-            bashrun: |
-             echo Hi
+  using: "composite" 
